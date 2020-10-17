@@ -1,9 +1,9 @@
-# icassp2021
+# Kakao Music Dataset
 
-Code to reproduce the paper. 
+Code to reproduce the paper: "" by Andres Ferraro, ..., Xavier Serra and Dmitry Bogdanov.
 
 
-# Instructions
+# instructions
 
 In order to run this code you first need to install the dependencies: `pip install -r requirements.txt`
 
