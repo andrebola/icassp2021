@@ -3,7 +3,7 @@
 Code to reproduce the paper: "" by Andres Ferraro, ..., Xavier Serra and Dmitry Bogdanov.
 
 
-# instructions
+# Instructions
 
 In order to run this code you first need to install the dependencies: `pip install -r requirements.txt`
 
