@@ -15,3 +15,6 @@ Then, there are 3 python script to run in the following order:
 
 
 Before running the script `autotagging_vgg.py` you need to set the location of the dataset `TMP_PATH` and a folder to save the checkpoints in `MODELS_PATH`. 
+
+
+In this repository we also provide the code to generate the mel-spectrograms that are included in the dataset. For this purpose, the method `melspectrogram` of the file `autotagging_vgg.py` was used.
