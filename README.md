@@ -1,6 +1,6 @@
 # Kakao Music Dataset
 
-Code to reproduce the paper: "" by Andres Ferraro, ..., Xavier Serra and Dmitry Bogdanov.
+Code to reproduce the paper: "MELON MUSIC DATASET: A PUBLIC DATASET FOR AUDIO-BASED PLAYLISTGENERATION AND MUSIC TAGGING" by Andres Ferraro, Yuntae Kim, Soohyeon Lee, Biho Kim†Namjun Jo, Semi Lim, Suyon Lim, Jungtaek Jang, Sehwan Kim, Xavier Serra and Dmitry Bogdanov
 
 
 # Instructions
@@ -18,3 +18,5 @@ Before running the script `autotagging_vgg.py` you need to set the location of t
 
 
 In this repository we also provide the code to generate the mel-spectrograms that are included in the dataset. For this purpose, the method `melspectrogram` of the file `audio_extract.py` was used.
+
+To download the dataset follow the instructions in the repository: https://mtg.github.io/melon-music-dataset/
