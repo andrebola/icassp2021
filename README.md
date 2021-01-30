@@ -1,6 +1,6 @@
-# Kakao Music Dataset
+# Melon Playlist Dataset
 
-Code to reproduce the paper: "**MELON MUSIC DATASET: A PUBLIC DATASET FOR AUDIO-BASED PLAYLISTGENERATION AND MUSIC TAGGING**" by Andres Ferraro, Yuntae Kim, Soohyeon Lee, Biho Kim, Namjun Jo, Semi Lim, Suyon Lim, Jungtaek Jang, Sehwan Kim, Xavier Serra and Dmitry Bogdanov
+Code to reproduce the paper: "**MELON PLAYLIST DATASET: A PUBLIC DATASET FOR AUDIO-BASED PLAYLISTGENERATION AND MUSIC TAGGING**" by Andres Ferraro, Yuntae Kim, Soohyeon Lee, Biho Kim, Namjun Jo, Semi Lim, Suyon Lim, Jungtaek Jang, Sehwan Kim, Xavier Serra and Dmitry Bogdanov
 
 
 # Instructions
